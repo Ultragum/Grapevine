@@ -1,5 +1,9 @@
 # Compiled JavaScript
-dist/
+#TODO fix up the ignores so that only favicon.ico exists in the dist folder
+index.js
+index.js.map
+index.html
+main.js
 
 # Logs
 logs
@@ -92,7 +96,6 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist
 
 # Gatsby files
 .cache/
