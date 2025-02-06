@@ -1,9 +1,6 @@
 # Compiled JavaScript
-#TODO fix up the ignores so that only favicon.ico exists in the dist folder
-index.js
-index.js.map
-index.html
-main.js
+*/dist/*
+!*/dist/favicon.ico
 
 # Logs
 logs
